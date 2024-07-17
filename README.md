@@ -1,6 +1,6 @@
-#Screenshot of almost the entire app (barring the 'clear history' button):
+# Screenshot of almost the entire app (barring the 'clear history' button):
 
-![Screenshot](https://ibb.co/LPbvyDt)
+<a href="https://ibb.co/LPbvyDt"><img src="https://i.ibb.co/hMhCNxW/Screenshot-2024-07-17-143927.png" alt="Screenshot-2024-07-17-143927" border="0"></a>
 
 # Getting Started with Create React App
 
