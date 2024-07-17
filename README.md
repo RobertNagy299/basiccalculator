@@ -1,3 +1,7 @@
+#Screenshot of almost the entire app (barring the 'clear history' button):
+
+![Screenshot](https://ibb.co/LPbvyDt)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
