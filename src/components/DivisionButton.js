@@ -13,7 +13,7 @@ const DivisionButton = () => {
             addInputToHistory(trimmedInput, " / ");
 
         } else {
-            alert("Please enter a number");
+            alert("Please enter a whole number");
             setInput("0");
         }
     }
